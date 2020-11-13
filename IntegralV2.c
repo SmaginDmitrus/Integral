@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #include <conio.h>
-
+//ну и шляпу ты сделал, брат, давай переделывай
 double stepen(double x,int step)
 {	
 	int a=0;
